@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**IsaacAber/IsaacAber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Zurhy**, a multiplayer 2D game built with **Phaser.js**, **TailwindCSS**, **Node.js/Express**, and **Socket.IO** for real-time communication.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning how to present my identity and skills to potential employers and grow as a developer, both technically and professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects that focus on real-time applications, multiplayer games, or tools that help simplify processes for users.
+
+💬 Ask me about **Node.js**, **React**, **Phaser.js**, or **game development** in general!
+
+📫 How to reach me:  
+- **Email**: [isaacabermail@gmail.com
+](mailto:isaacabermail@gmail.com
+)  
+- **LinkedIn**: [in/isaac-aber](https://www.linkedin.com/in/isaac-aber/)
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’ve learned **C#** in school, and my passion for creating Minecraft server plugins got me into **Java**.
